@@ -13,4 +13,6 @@
 - Git Tools
 - Customizing Git
 
+We follow **Git Pro textbook by Scott Chacon and Ben Straub** which is available at [here](https://git-scm.com/book/en/v2).
+
 To register for the course, visit the [Pytopia Website](https://www.pytopia.ai/).
