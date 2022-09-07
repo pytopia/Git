@@ -1,5 +1,4 @@
 # VSCode
-
 Visual Studio Code, also commonly referred to as VS Code, is a source-code editor made by Microsoft for Windows, Linux and macOS. Features include support for debugging, syntax highlighting, intelligent code completion, snippets, code refactoring, and embedded Git. Visual Studio Code is a very popular coding editor used by millions of developers around the world.
 
 The editor has rapidly gained popularity among developers, ranking as the most popular development environment overall in [Stack Overflow’s 2021 Developer Survey](https://insights.stackoverflow.com/survey/2021#most-popular-technologies-new-collab-tools).
@@ -7,7 +6,6 @@ The editor has rapidly gained popularity among developers, ranking as the most p
 <img src="./images/editor-popularity.png" width="600" />
 
 ## Installation
-
 ### Windows, Linux, and MacOS
 Visual Studio Code is free and available on your favorite platform - Linux, macOS, and Windows. Download it from [here](https://code.visualstudio.com/download) and install it on your machine.
 
