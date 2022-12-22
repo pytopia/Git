@@ -19,7 +19,7 @@ To register for the course, visit the [Pytopia Website](https://www.pytopia.ai/)
 
 ## Table of Contents
 
-- Git basics
+- Section 1: Introduction pre-requisites
     - Introduction to Git and version control systems
          - What is Git?
               - What is version control systems? 
@@ -39,16 +39,17 @@ To register for the course, visit the [Pytopia Website](https://www.pytopia.ai/)
          - Configuring local user information
             - Configuring default editor and diff tool
         - Git help
-- Working with Git repositories 
+- Section 2: Working with Git repositories 
     - Defining Staging Area, Working Directory and Repository
     - Using Git status
     - Creating a new repository using git init
     - Cloning an existing repository
-- Git basics
+- Section 3: Git basics
     - Git add
     - Git commit
-    - Git log
-    - Git diff
+    - Removing files and folders  from Git
+    - Commit history with iGit log
+    - Viewing changes with Git diff
     - Git reset
     - Git checkout
     - Git rm
@@ -57,6 +58,27 @@ To register for the course, visit the [Pytopia Website](https://www.pytopia.ai/)
     - Git stash
     - Git ignore
     - License and Readme files in Git
-    
-    
+    - Git tagging
+    - Git Alias 
+    - Workirng with remote repositories
+    - Pushing to remote repository
+- Section 4: Git branching
+     - What is branching? Branching in Nutshell!
+     - Git branch
+     - Merging branches
+     - Branch Management
+     - Git checkout
+     - Branchiung workflows
+     - Remote Branches
+     - Rebasing Branches in Git    
+
+Some practical examples are included in the class material.
+
+How to connn+ect with us: 
+The class website: www.pytopia.ai            Our comminity: www.t.me/pytopia_ai
+## Contributing
+Note: This is a work in progress. We will be adding more content to this repository. If you have any suggestions, please feel free to open an issue or a pull request.
+
+
+
      
