@@ -74,7 +74,7 @@ To register for the course, visit the [Pytopia Website](https://www.pytopia.ai/)
 
 Some practical examples are included in the class material.
 
-How to connn+ect with us: 
+How to connnect with us: 
 The class website: www.pytopia.ai            Our comminity: www.t.me/pytopia_ai
 ## Contributing
 Note: This is a work in progress. We will be adding more content to this repository. If you have any suggestions, please feel free to open an issue or a pull request.
