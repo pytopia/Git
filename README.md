@@ -44,6 +44,19 @@ To register for the course, visit the [Pytopia Website](https://www.pytopia.ai/)
     - Using Git status
     - Creating a new repository using git init
     - Cloning an existing repository
+- Git basics
+    - Git add
+    - Git commit
+    - Git log
+    - Git diff
+    - Git reset
+    - Git checkout
+    - Git rm
+    - Git mv
+    - Git clean
+    - Git stash
+    - Git ignore
+    - License and Readme files in Git
     
     
      
